@@ -1,11 +1,11 @@
 # 2jointsProject1
 ## -MEMBERS-
-Jonhel Ian Songco
-Katleen Capalaran
-Hazel Roi Coronel
-Jobert Sapaden
-Christine Raine Santos
-Ma. Isabela Capalaran
+* Jonhel Ian Songco
+* Katleen Capalaran
+* Hazel Roi Coronel
+* Jobert Sapaden
+* Christine Raine Santos
+* Ma. Isabela Capalaran
 
 # Root Finding Methods
 This Java application provides a user-friendly graphical interface for computing the roots of a function using two common root-finding methods: the Bisection Method and the False Position Method.
